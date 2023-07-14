@@ -1,0 +1,43 @@
+
+
+ body{
+        background-color: khaki;
+    }
+
+
+ .username {
+      font-weight: bold;
+      color:brown
+    }
+
+ .subline{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown
+    
+    }
+
+
+ .intro{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:brown
+    }
+
+ img{
+        width: 1100px;
+        border-radius: 500px;
+
+    }
+
+ h1{
+    font-family: "press start 2P";
+    justify-content: right;
+}
+
+
+
+
+    
+
+
